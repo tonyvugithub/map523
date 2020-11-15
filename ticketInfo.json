@@ -1,0 +1,17 @@
+[
+  {
+    "type" : "Balcony",
+    "quantity" : 12,
+    "price" : 100.50
+  },
+  {
+    "type" : "Lower",
+    "quantity" : 20,
+    "price" : 90.50
+  },
+  {
+    "type" : "Courtside",
+    "quantity" : 15,
+    "price" : 80.50
+  },
+]
