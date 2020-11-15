@@ -3,17 +3,17 @@
     [
       {
         "type" : "Balcony",
-        "quantity" : 12,
+        "quantity" : 13,
         "price" : 100.50
       },
       {
         "type" : "Lower",
-        "quantity" : 20,
+        "quantity" : 19,
         "price" : 90.50
       },
       {
         "type" : "Courtside",
-        "quantity" : 15,
+        "quantity" : 16,
         "price" : 80.50
       },
     ]
